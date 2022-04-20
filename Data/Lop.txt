@@ -1,0 +1,6 @@
+5
+D18CQAT01,an toan thong tin 1
+D18CQCN02,cong nghe thong tin 2
+D18CQDT02,dien tu 2
+D18CQKT02,ke toan 2
+D18CQMR01,marketing 1
